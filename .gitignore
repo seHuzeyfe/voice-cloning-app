@@ -41,3 +41,6 @@ checkpoints/
 
 # Logs
 *.log
+
+# Test Audio File
+test.m4a
