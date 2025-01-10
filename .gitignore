@@ -43,7 +43,7 @@ checkpoints/
 *.log
 
 # Test Audio File
-test.m4a
+input.wav
 
 # Audio Files
 uploads/
