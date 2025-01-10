@@ -15,7 +15,7 @@ class AudioService:
         try:
             file_path = self.upload_dir / audio_file.filename
 
-            with open(file_path, "wn") as f:
+            with open(file_path, "wb") as f:
                 content = await audio_file.read()
                 f.write(content)
             return file_path
