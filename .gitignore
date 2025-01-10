@@ -44,3 +44,6 @@ checkpoints/
 
 # Test Audio File
 test.m4a
+
+# Audio Files
+uploads/
